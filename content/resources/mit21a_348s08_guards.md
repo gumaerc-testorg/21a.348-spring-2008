@@ -2,8 +2,12 @@
 content_type: resource
 description: "Photo and movie assignments for a class session on photographs by Karl\
   \ H\xF6cker."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-348-photography-and-truth-spring-2008/34cffd91ce9ff3c01e83ef910519c416_MIT21A_348S08_guards.pdf
+file: /media/courses/21a-348-photography-and-truth-spring-2008/34cffd91ce9ff3c01e83ef910519c416_MIT21A_348S08_guards.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Photos
+parent_type: CourseSection
 resourcetype: Document
 title: '"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "Picturing
   Auschwitz." New Yorker, March 17, 2008.'

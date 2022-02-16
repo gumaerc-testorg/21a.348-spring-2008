@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Lecture presentation on everyday photography and people's lives.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-348-photography-and-truth-spring-2008/5419eb8b4f04bbeca2a51fd7aaa880c7_MIT21A_348S08_snapshotsR.pdf
+file: /media/courses/21a-348-photography-and-truth-spring-2008/5419eb8b4f04bbeca2a51fd7aaa880c7_MIT21A_348S08_snapshotsR.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Photos
+parent_type: CourseSection
 resourcetype: Document
 title: '"Royal Snaps." Selections from Queen Alexandra''s Christmas Gift Book and
   p. 548 in Lenman, Oxford Companion.'

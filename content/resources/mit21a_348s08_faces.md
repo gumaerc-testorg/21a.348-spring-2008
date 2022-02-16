@@ -2,8 +2,12 @@
 content_type: resource
 description: Photo and movie assignments for a class session on photographing the
   Great Depression.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-348-photography-and-truth-spring-2008/b7b36b90c7418f16f21835855af9e58d_MIT21A_348S08_faces.pdf
+file: /media/courses/21a-348-photography-and-truth-spring-2008/b7b36b90c7418f16f21835855af9e58d_MIT21A_348S08_faces.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Photos
+parent_type: CourseSection
 resourcetype: Document
 title: Selections from You Have Seen Their Faces.
 uid: b7b36b90-c741-8f16-f218-35855af9e58d

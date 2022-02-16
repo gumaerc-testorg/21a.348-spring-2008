@@ -2,8 +2,12 @@
 content_type: resource
 description: Photo and movie assignments for a class session on muck-raking, advocacy,
   and propaganda.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-348-photography-and-truth-spring-2008/b5638c12fda21115d1ec6c84fe72c047_MIT21A_348S08_environment.pdf
+file: /media/courses/21a-348-photography-and-truth-spring-2008/b5638c12fda21115d1ec6c84fe72c047_MIT21A_348S08_environment.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Photos
+parent_type: CourseSection
 resourcetype: Document
 title: '"Environmental Propaganda." Selections from This is the American Earth and
   The Hand of Man on America.'

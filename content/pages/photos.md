@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Photos
 uid: 19111682-54bc-253f-8e45-4331c89aad90
 ---

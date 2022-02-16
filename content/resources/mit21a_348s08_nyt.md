@@ -2,8 +2,12 @@
 content_type: resource
 description: Photo and movie assignments for a class session on selections from The
   New York Times, December 30, 2007.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-348-photography-and-truth-spring-2008/03cd679bd0c7d1d7714d4b71550753c9_MIT21A_348S08_nyt.pdf
+file: /media/courses/21a-348-photography-and-truth-spring-2008/03cd679bd0c7d1d7714d4b71550753c9_MIT21A_348S08_nyt.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Photos
+parent_type: CourseSection
 resourcetype: Document
 title: A Day in the New York Times." Selections from The New York Times, December
   30, 2007.
