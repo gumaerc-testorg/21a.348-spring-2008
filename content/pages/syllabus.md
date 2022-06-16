@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, writing and class assignments, and books, articles, and photographs.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -31,9 +33,9 @@ Wright, Richard. _12 Million Black Voices_. New York, NY: Basic Books, 2002. ISB
 
 Sontag, Susan. _Regarding the Pain of Others_. New York, NY: Picador, 2004. ISBN: 9780312422196.
 
-Other reading assignments can be found in the [readings]({{< baseurl >}}/pages/readings) section.
+Other reading assignments can be found in the {{% resource_link d5a14171-5068-11f5-3064-50c746204d88 "readings" %}} section.
 
-For most weeks, "reading" assignments will include images to examine. Viewing assignments will be made week by week. For some, you may be directed to one or two other Web sites. See the [photos]({{< baseurl >}}/pages/photos) page for more information.
+For most weeks, "reading" assignments will include images to examine. Viewing assignments will be made week by week. For some, you may be directed to one or two other Web sites. See the {{% resource_link 19111682-54bc-253f-8e45-4331c89aad90 "photos" %}} page for more information.
 
 As supplementary sources for writing assignments (and just for browsing), the following three excellent volumes are on library reserve for this subject. All three are interesting, readable, and jargon-free. Most of the articles are brief and, in the Frizot and Marien volumes, profusely illustrated.
 
@@ -48,4 +50,4 @@ The MIT Library has a huge collection of books of photographs and books about ph
 Writing and Class Assignments
 -----------------------------
 
-What matters most is staying up with reading and viewing assignments and participating actively in class. Several papers will be due during the semester, with details available on the [assignments]({{< baseurl >}}/pages/assignments) page.
+What matters most is staying up with reading and viewing assignments and participating actively in class. Several papers will be due during the semester, with details available on the {{% resource_link 80548199-2c50-8c7d-612f-31b79ed2467a "assignments" %}} page.

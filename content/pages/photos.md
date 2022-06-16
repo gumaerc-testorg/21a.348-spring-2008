@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains photo and movie assignments for each class session
+  and full citations for all photo sources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Photos
@@ -34,9 +36,9 @@ Introduction
 {{< tdopen >}}
 
 
-"A Day in the New York Times." Selections from _The New York Times_, December 30, 2007. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nyt))
+"A Day in the New York Times." Selections from _The New York Times_, December 30, 2007. ({{% resource_link 03cd679b-d0c7-d1d7-714d-4b71550753c9 "PDF" %}})
 
-"Very Brief History of Photographic Technology." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_evolution))
+"Very Brief History of Photographic Technology." ({{% resource_link 2d49db4d-7707-470c-ecd1-f780cc817a83 "PDF - 9.3MB" %}})
 
 
 {{< tdclose >}}
@@ -52,9 +54,9 @@ The power and ambiguity of photography
 {{< tdopen >}}
 
 
-"Schools and Phases in Photographic Art." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_schools))
+"Schools and Phases in Photographic Art." ({{% resource_link 3410b545-0f1d-1c04-f97d-407fef40fb9b "PDF - 9.3MB" %}})
 
-Selections from _The Photographer's Eye_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.2MB]({{< baseurl >}}/resources/mit21a_348s08_szarkowski))
+Selections from _The Photographer's Eye_. ({{% resource_link bc13f9ca-7f39-1eda-b265-ad6c43105a0e "PDF - 9.2MB" %}})
 
 
 {{< tdclose >}}
@@ -70,17 +72,17 @@ Looking at faces
 {{< tdopen >}}
 
 
-"The Afghan Girl." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_afghan))
+"The Afghan Girl." ({{% resource_link 78ba1da2-9138-7cb6-5d22-9d584349f3a7 "PDF" %}})
 
-"19th Century Portraits and Society." Selections from _Beautiful and Damned_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB]({{< baseurl >}}/resources/mit21a_348s08_portraits19))
+"19th Century Portraits and Society." Selections from _Beautiful and Damned_. ({{% resource_link fbe6b2ad-d90b-748e-2766-97048e28b06b "PDF - 3.4MB" %}})
 
-"20th Century Portrait Photography." Selections from _Theatre of the Face_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraits20))
+"20th Century Portrait Photography." Selections from _Theatre of the Face_. ({{% resource_link 7a32a17a-9d3c-f082-bb22-17ad2fbec835 "PDF" %}})
 
-"Physiognomy." Selections from _New Physiognomy_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21a_348s08_physiognomy))
+"Physiognomy." Selections from _New Physiognomy_. ({{% resource_link 4397f48d-5396-f18f-a1e8-39b63b985037 "PDF" %}})
 
-"Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 2.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_2))
+"Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. ({{% resource_link 400daca0-7b17-204f-b5fc-fdcb4f2380ab "PDF 1 of 2 - 9.6MB" %}}) ({{% resource_link dc5b9810-1f3b-e037-a9dd-66019c30d28a "PDF 2 of 2 - 2.6MB" %}})
 
-"August Sander, German Portraits." Selections from _Men Without Masks_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsg))
+"August Sander, German Portraits." Selections from _Men Without Masks_. ({{% resource_link cb64dcc1-10c7-95b4-6c5c-b4cef3bfa4db "PDF" %}})
 
 
 {{< tdclose >}}
@@ -97,23 +99,23 @@ itinerants, everyday photography and people's lives
 {{< tdopen >}}
 
 
-"American Snapshots." Selections from _Art of the American Snapshot_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_snapshotsa))
+"American Snapshots." Selections from _Art of the American Snapshot_. ({{% resource_link f3145825-2a19-d631-9122-1be33c72e2f8 "PDF" %}})
 
-"American Postcards." Selections from _Real Photo Postcard Guide_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_postcards))
+"American Postcards." Selections from _Real Photo Postcard Guide_. ({{% resource_link c30da684-116d-cb21-8dc7-eef62edf1dce "PDF - 1.9MB" %}})
 
-"French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsf))
+"French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. ({{% resource_link 3d03eb5a-0852-aec6-9651-2264376fa918 "PDF - 4.4MB" %}})
 
-"Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsr))
+"Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. ({{% resource_link 5419eb8b-4f04-bbec-a2a5-1fd7aaa880c7 "PDF - 5.8MB" %}})
 
 "A Professor's Family Pictures." Selections from Prof. Howe's personal collection. (Images unavailable.)
 
-"A Lebanese Portrait Studio." Selections from _Hashem El Madani_ and _Mapping Sitting_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsl))
+"A Lebanese Portrait Studio." Selections from _Hashem El Madani_ and _Mapping Sitting_. ({{% resource_link 469b155f-fca4-d4a0-bc4b-f9a4e8856af2 "PDF" %}})
 
-"Guatemalan Itinerant Photographers." Selections from _Los Ambulantes_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_ambulantes))
+"Guatemalan Itinerant Photographers." Selections from _Los Ambulantes_. ({{% resource_link 5db847b9-aa3d-32f5-5b44-baeaca3cd2f2 "PDF" %}})
 
-"Memento Mori: Recording the Dead." Selections from _Forget Me Not_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_memento))
+"Memento Mori: Recording the Dead." Selections from _Forget Me Not_. ({{% resource_link b21b9e8b-688b-5c06-8889-7192d1202746 "PDF - 1.9MB" %}})
 
-"Jewish Memorial Books." Selections from _From a Ruined Garden_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_memorials))
+"Jewish Memorial Books." Selections from _From a Ruined Garden_. ({{% resource_link e2b13a9b-18cf-1607-9714-d9b058105f59 "PDF" %}})
 
 Movie: "Photo Wallahs." David and Judith McDougall, 1992.
 
@@ -131,7 +133,7 @@ Truth and deception
 {{< tdopen >}}
 
 
-"Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_spirits))
+"Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. ({{% resource_link 00dd4748-fea2-8aac-767f-6d64515af91e "PDF - 9.9MB" %}})
 
 "Disappearing Commissars." Selections from _The Commissar Vanishes_.
 
@@ -151,7 +153,7 @@ Advertising photography and gender
 {{< tdopen >}}
 
 
-"Gender in Advertising." Selections from _Gender Advertisements_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_gender))
+"Gender in Advertising." Selections from _Gender Advertisements_. ({{% resource_link 3520a0d6-033a-248c-b156-9ca73d275917 "PDF" %}})
 
 "Fashion Photography." Selections from _Elle_, February 2007. (Images unavailable.)
 
@@ -169,19 +171,19 @@ Photographing the Great Depression
 {{< tdopen >}}
 
 
-"Documenting the Depression." Selections from _Documenting America_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.8MB]({{< baseurl >}}/resources/mit21a_348s08_depression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.5MB]({{< baseurl >}}/resources/mit21a_348s08_depression_2))
+"Documenting the Depression." Selections from _Documenting America_. ({{% resource_link aab84a6e-e6b9-8a8b-7992-d8692583400b "PDF 1 of 2 - 9.8MB" %}}) ({{% resource_link 7edb2a6d-bf81-deac-2646-ac6774611be2 "PDF 2 of 2 - 9.5MB" %}})
 
-Selections from _Roll Jordan Roll_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_jordan))
+Selections from _Roll Jordan Roll_. ({{% resource_link eac40295-5723-f325-d4bc-68e505faad88 "PDF" %}})
 
-Selections from _You Have Seen Their Faces_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_faces))
+Selections from _You Have Seen Their Faces_. ({{% resource_link b7b36b90-c741-8f16-f218-35855af9e58d "PDF" %}})
 
-Selections from _An American Exodus_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit21a_348s08_exodus))
+Selections from _An American Exodus_. ({{% resource_link 34f2fc73-7cbb-be74-287a-020cd6057658 "PDF - 7.7MB" %}})
 
-Selections from _Let Us Now Praise Famous Men_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.4MB]({{< baseurl >}}/resources/mit21a_348s08_praise))
+Selections from _Let Us Now Praise Famous Men_. ({{% resource_link c36f7b6a-c2ca-a39e-2f3d-9dd601ebc5a4 "PDF - 8.4MB" %}})
 
-Selections from _Land of the Free_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit21a_348s08_landfree))
+Selections from _Land of the Free_. ({{% resource_link d5d9dd48-adfe-4a2d-c2ec-7b9a91865b92 "PDF - 2.4MB" %}})
 
-Selections from _Fruit Tramps_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_fruit))
+Selections from _Fruit Tramps_. ({{% resource_link e13bab05-abaa-ed6f-36c9-237981bd9dab "PDF" %}})
 
 
 {{< tdclose >}}
@@ -197,13 +199,13 @@ Imperialism and photography
 {{< tdopen >}}
 
 
-"Pictures from the National Geographic." Selections from issues from the 1930s, 1950s, and the modern day. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_natgeo))
+"Pictures from the National Geographic." Selections from issues from the 1930s, 1950s, and the modern day. ({{% resource_link 3a7f60fb-d455-00c1-37ad-d8bd7b484895 "PDF" %}})
 
-Selections from _Martín Chambi_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chambi))
+Selections from _Martín Chambi_. ({{% resource_link 2ea1dd4f-02c3-ea6f-9dfd-c24309e431eb "PDF" %}})
 
-Selections from _The Vanishing Race_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_curtis))
+Selections from _The Vanishing Race_. ({{% resource_link de681333-5482-1efd-37b8-0b8d657ef353 "PDF - 9.9MB" %}})
 
-Selections from _Last of the Nuba_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nuba))
+Selections from _Last of the Nuba_. ({{% resource_link 7c463f4d-eba5-b4a0-193a-26329d979b77 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -219,25 +221,25 @@ Muck-raking, advocacy, and propaganda
 {{< tdopen >}}
 
 
-"Muckraking." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21a_348s08_muckraking))
+"Muckraking." ({{% resource_link 3078efd0-76a6-90e6-e1cb-e184738204ec "PDF - 1.1MB" %}})
 
 "Slaves and Prisons." Selections from "[Africa's Children: Struggles of Youth.](http://www.nytimes.com/packages/khtml/2006/10/28/world/20061029_GHANA_FEATURE.html)" _New York Times_, October 29, 2006.
 
-Selections from _Death in the Making_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_death))
+Selections from _Death in the Making_. ({{% resource_link bcf32a4c-b8d4-8648-5fcd-19d63650ee1d "PDF" %}})
 
-"Environmental Propaganda." Selections from _This is the American Earth_ and _The Hand of Man on America_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_environment))
+"Environmental Propaganda." Selections from _This is the American Earth_ and _The Hand of Man on America_. ({{% resource_link b5638c12-fda2-1115-d1ec-6c84fe72c047 "PDF" %}})
 
-Selections from _House of Bondage_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_bondage))
+Selections from _House of Bondage_. ({{% resource_link 239c0437-ee8f-5079-6b12-649a42f49fe8 "PDF" %}})
 
-"Minamata." Selections from _Minamata_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_minamata))
+"Minamata." Selections from _Minamata_. ({{% resource_link a66196e3-2234-d541-892a-20123cd05ed5 "PDF" %}})
 
-Selections from _Living with the Enemy_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_enemy))
+Selections from _Living with the Enemy_. ({{% resource_link f937bff5-8f3c-5d84-7968-69341a5c5eef "PDF" %}})
 
-"Genocide in Paraguay?" Selections from _The Indian Peoples of Paraguay_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_genocide))
+"Genocide in Paraguay?" Selections from _The Indian Peoples of Paraguay_. ({{% resource_link 10a2db1b-dfca-fe69-c861-517c63e10554 "PDF" %}})
 
-"Sebastião Salgado." Selections from _An Uncertain Grace_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_salgado))
+"Sebastião Salgado." Selections from _An Uncertain Grace_. ({{% resource_link 84d9b63b-9992-c811-8a8f-39373c39b7a0 "PDF" %}})
 
-"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "[Picturing Auschwitz](http://www.newyorker.com/magazine/2008/03/17/picturing-auschwitz)." _New Yorker_, March 17, 2008. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_guards))
+"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "[Picturing Auschwitz](http://www.newyorker.com/magazine/2008/03/17/picturing-auschwitz)." _New Yorker_, March 17, 2008. ({{% resource_link 34cffd91-ce9f-f3c0-1e83-ef910519c416 "PDF" %}})
 
 Movie: "The Other Half Revisited." Pacific Street Films, 1998.
 
@@ -255,29 +257,29 @@ Photographing people's lives: photo-essays and photo-ethnography
 {{< tdopen >}}
 
 
-"Trobriand Islanders." Selections from _Malinowski's Kiriwina_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_trobriand))
+"Trobriand Islanders." Selections from _Malinowski's Kiriwina_. ({{% resource_link d386f756-9ffb-82a2-e1ae-abbd08afedba "PDF - 1.9MB" %}})
 
-Selections from _Balinese Character_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_balinese))
+Selections from _Balinese Character_. ({{% resource_link 66d3b861-9e6a-82b1-0062-557dfb00a171 "PDF" %}})
 
-"The Grand Valley Dani." Selections from _Gardens of War_ and _New Guinea Photographs, 1961_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_dani))
+"The Grand Valley Dani." Selections from _Gardens of War_ and _New Guinea Photographs, 1961_. ({{% resource_link 46f3d51c-2738-8dda-7fa6-7a0c51b84476 "PDF" %}})
 
-Selections from _The Edge of the Forest_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_forest))
+Selections from _The Edge of the Forest_. ({{% resource_link a6593784-5919-1446-e737-1a47eeb00960 "PDF" %}})
 
-"Mourning in Greece." Selections from _The Death Rituals of Rural Greece_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_greece))
+"Mourning in Greece." Selections from _The Death Rituals of Rural Greece_. ({{% resource_link 29645b96-f54c-8c44-8506-2dfd0efec308 "PDF" %}})
 
-"Weaving in Chiapas." Selections from _Weaving Generations Together_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chiapas))
+"Weaving in Chiapas." Selections from _Weaving Generations Together_. ({{% resource_link 0ae3a3fe-2584-5c82-7aa3-5e70f69a7814 "PDF" %}})
 
-"Indigenous Photography: Corn." Selections from _Ixim; Maíz; Corn_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_corn))
+"Indigenous Photography: Corn." Selections from _Ixim; Maíz; Corn_. ({{% resource_link e4ba2fca-ad94-2d3c-c572-b8cf17c877e3 "PDF" %}})
 
-Selections from _My Little Sister Cristina_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_cristina))
+Selections from _My Little Sister Cristina_. ({{% resource_link 5e6b2f76-734d-6363-6731-e684b920e767 "PDF" %}})
 
 "Preparing a Photo-ethnography." Selections from Prof. Howe's collection. (Images unavailable.)
 
-Selections from "Pamplona Bullfight." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_pamplona))
+Selections from "Pamplona Bullfight." ({{% resource_link bef8ac70-6033-1d99-219b-cb2962ca3191 "PDF" %}})
 
-Selections from "[A Country Doctor.](http://books.google.com/books?id=_kgEAAAAMBAJ&lpg=PA115&pg=PA115#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_doctor))
+Selections from "[A Country Doctor.](http://books.google.com/books?id=_kgEAAAAMBAJ&lpg=PA115&pg=PA115#v=onepage&q=&f=false)" ({{% resource_link 18224fae-7498-99a8-fb41-9a3583b0b4b6 "PDF" %}})
 
-Selections from "[Spanish Village.](http://books.google.com/books?id=4E4EAAAAMBAJ&lpg=PA121&pg=PA121#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_village))
+Selections from "[Spanish Village.](http://books.google.com/books?id=4E4EAAAAMBAJ&lpg=PA121&pg=PA121#v=onepage&q=&f=false)" ({{% resource_link 41ad6a4f-0ffa-29ba-cf14-157ba4f8e15f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -293,7 +295,7 @@ Looking at pictures, thinking about photography
 {{< tdopen >}}
 
 
-"Photo-manipulation." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_manipulation)) (Used with permission.)
+"Photo-manipulation." ({{% resource_link dd096067-80d2-7d77-0c92-f333f0afa633 "PDF" %}}) (Used with permission.)
 
 
 {{< tdclose >}}
