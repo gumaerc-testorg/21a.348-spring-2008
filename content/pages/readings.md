@@ -1,63 +1,36 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: This section contains readings assigned for each class session along
+  with full citations for all text sources.
+draft: false
 title: Readings
 uid: d5a14171-5068-11f5-3064-50c746204d88
 ---
-
 This page contains readings assigned for each class session. Full citations for all text sources are listed [below](#Text_Sources).
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The power and ambiguity of photography
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Edwards, _Short Introduction_, chapters 1-5.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Looking at faces
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Edwards, _Short Introduction_, review chapters 1-2.
 
@@ -71,20 +44,12 @@ Kemp, "A Perfect and Faithful Record."
 
 Banks, _Visual Methods_, pp. 34-47.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-Snaps/albums/postcards/  
+{{< tdclose >}}{{< tdopen >}}
+Snaps/albums/postcards/   
 itinerants, everyday photography and people's lives
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Edwards, _Short Introduction_, chapter 6.
 
@@ -98,7 +63,7 @@ Frizot, _New History_, chapter 41, "Rituals and Customs."
 
 Jacobbi, Marianne. "[Deleting Him](http://www.boston.com/bostonglobe/magazine/articles/2008/01/13/deleting_him/)." _The Boston Globe_, January 13, 2008, p. 38.
 
-Amir, "From Memorial Books to Invaluable Historical Documentation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, "From Memorial Books to Invaluable Historical Documentation." ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
 
 [Meir Holtzman Album](http://www.zchor.org/index5.htm)
 
@@ -108,19 +73,11 @@ Parker & Neal, _Los Ambulantes_, pp. 1-22. (skim)
 
 Simmonds, Posy. "Every Picture Tells a Story." p. 212 in Lenman, _Oxford Companion_.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Truth and deception
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Gladwell, Malcolm. "[The Picture Problem](http://www.newyorker.com/archive/2004/12/13/041213fa_fact)." _The New Yorker_, December 13, 2004, pp. 74-81.
 
@@ -136,31 +93,17 @@ King, _The Commissar Vanishes_, pp. 9-13 and 32.
 
 Brower, Kenneth. "[Photography in the Age of Falsification](http://www.theatlantic.com/issues/98may/photo.htm)." _The Atlantic_ (May 1998): 92-111.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Advertising photography and gender
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Goffman, _Gender Advertisements_, all.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Photographing the Great Depression
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Guimond, _American Photography and the American Dream_, chapter 4.
 
@@ -168,19 +111,11 @@ Wright, _12 Million Black Voices,_ all.
 
 Levine, "The Historian and the Icon," and Trachtenberg, "From Image to Story." In _Documenting America_, pp. 15-71. (optional)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Imperialism and photography
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Mitchell, "Orientalism and the Exhibitionary Order."
 
@@ -190,19 +125,11 @@ Lutz, Catherine, and Jane Collins. "The Photograph as an Intersection of Gazes: 
 
 Poole, Deborah. "An Excess of Description: Ethnography, Race, and Visual Technologies." _Annual Review of Anthropology_ 34 (2005): 159-179.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Muck-raking, advocacy, and propaganda
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Frizot, _New History_, chapter 30, "The Way Life Goes," and chapter 33, "The Involvement of the Photojournalist."
 
@@ -214,19 +141,11 @@ Goldberg, "Documenting Poverty."
 
 Levi-Strauss, "The Documentary Debate," and "Photography and Propaganda." In _Between the Eyes._
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Photographing people's lives: photo-essays and photo-ethnography
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Collier, _Visual Anthropology_, pp. 19-28, 44-63, and 77-97.
 
@@ -240,19 +159,11 @@ Morath, "Pamplona Bullfight," and Smith, "A Country Doctor." In Boot, _Magnum St
 
 "Spanish Village." pp. 72-81 in _Time - Photojournalism_.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Looking at pictures, thinking about photography
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Benjamin, "The Work of Art in the Age of Mechanical Reproduction," and Manovich, "The Paradoxes of Digital Photography." In Wells, _The Photography Reader._
 
@@ -262,29 +173,17 @@ Malcolm, "Certainties and Possibilities."
 
 Collins, Lauren. "[Pixel Perfect](http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_collins)." _The New Yorker_, May 12, 2008.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 War and suffering in the picture
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sontag, _Regarding the Pain of Others_, all.
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## {{< anchor "Text_Sources" >}}{{< /anchor >}}Text Sources
 
-{{< tableclose >}}
-
-{{< anchor "Text_Sources" >}}{{< /anchor >}}Text Sources
---------------------------------------------------------
-
-Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
 
 Banks, Marcus. _Visual Methods in Social Research_. Thousand Oaks, CA: Sage, 2001. ISBN: 9780761963646.
 
@@ -302,9 +201,9 @@ Edwards, Elizabeth. _Anthropology and Photography, 1860-1920_. New Haven, CT: Ya
 
 Edwards, Steve. _Photography: A Very Short Introduction_. New York, NY: Oxford University Press, 2006. ISBN: 9780192801647.
 
-Ferrato, Donna. "Living with the Enemy: Domestic Violence." In Light, Ken_. Witness in Our Time: Working Lives of Documentary Photographers_. Washington, DC: Smithsonian Institution Press, 2000. ISBN: 9781560989486.
+Ferrato, Donna. "Living with the Enemy: Domestic Violence." In Light, Ken. Witness in Our Time: Working Lives of Documentary Photographers. Washington, DC: Smithsonian Institution Press, 2000. ISBN: 9781560989486.
 
-[](http://www.amazon.com/dp/0520062213/?tag=mitopencourse-20)  Fleischhauer, Carl, and Beverly Brannan. _Documenting America_. Berkeley, CA: University of California Press, 1988. ISBN: 9780520062214.
+Fleischhauer, Carl, and Beverly Brannan. _Documenting America_. Berkeley, CA: University of California Press, 1988. ISBN: 9780520062214.
 
 Frizot, Michel. _A New History of Photography_. Köln, Germany: Könemann, 1998. ISBN: 9783829013284.
 
@@ -338,7 +237,7 @@ Marien, Mary Warner. _Photography: A Cultural History_. Upper Saddle River, NJ: 
 
 Mitchell, Timothy. "Orientalism and the Exhibitionary Order." In _Colonialism and Culture_. Edited by Nicholas Dirks. Ann Arbor, MI: University of Michigan Press, 1992. ISBN: 9780472094349.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262660532) Parker, Ann, and Avon Neal. [_Los Ambulantes: Itinerant Photographers of Guatemala_](https://mitpress.mit.edu/9780262660532). Cambridge, MA: MIT Press, 1984. ISBN: 9780262660532.
+![Buy at MIT Press](/images/mp_logo.gif) Parker, Ann, and Avon Neal. [_Los Ambulantes: Itinerant Photographers of Guatemala_](https://mitpress.mit.edu/9780262660532). Cambridge, MA: MIT Press, 1984. ISBN: 9780262660532.
 
 Pink, Sarah. _Doing Visual Ethnography_. Thousand Oaks, CA: Sage, 2001. ISBN: 9780761960546.
 
