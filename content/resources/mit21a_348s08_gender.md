@@ -5,6 +5,7 @@ description: Photo and movie assignments for a class session on advertising phot
 file: /courses/21a-348-photography-and-truth-spring-2008/3520a0d6033a248cb1569ca73d275917_MIT21A_348S08_gender.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Photos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '"Gender in Advertising." Selections from Gender Advertisements.'
 uid: 3520a0d6-033a-248c-b156-9ca73d275917
 ---
 Photo and movie assignments for a class session on advertising photography and gender.
-

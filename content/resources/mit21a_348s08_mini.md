@@ -6,6 +6,7 @@ file: /courses/21a-348-photography-and-truth-spring-2008/5c49f205637085fea860618
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'First Assignment Sheet: Mini-essays/Reports '
 uid: 5c49f205-6370-85fe-a860-6182aa904a84
 ---
 Instructions for an assignment to write three short essays on photography in life and literature.
-
