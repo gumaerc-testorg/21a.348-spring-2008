@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the reading and viewing assignments
+  of the course, the schedule of weekly topics, and key dates for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 80548199-2c50-8c7d-612f-31b79ed2467a
 ---
 
 What matters most is staying up with reading and viewing assignments and participating actively in class. In addition, you will be responsible for the following.
 
-Mini-Essays/Reports ([PDF]({{< baseurl >}}/resources/mit21a_348s08_mini))
+Mini-Essays/Reports ({{% resource_link 5c49f205-6370-85fe-a860-6182aa904a84 "PDF" %}})
 -------------------------------------------------------------------------
 
 (1¼-2 pages, ongoing)
