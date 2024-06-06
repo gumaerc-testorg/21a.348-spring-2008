@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on photographing faces, facial expression, and evolution.
 file: /courses/21a-348-photography-and-truth-spring-2008/400daca07b17204fb5fcfdcb4f2380ab_MIT21A_348S08_expression_1.pdf
+file_size: 10048875
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
