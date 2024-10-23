@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo and movie assignments for a class session on imperialism and photography.
-file: /courses/21a-348-photography-and-truth-spring-2008/7c463f4deba5b4a0193a26329d979b77_MIT21A_348S08_nuba.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/7c463f4deba5b4a0193a26329d979b77_MIT21A_348S08_nuba.pdf
 file_size: 86339
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo and movie assignments for a class session on Guatemalan itinerant
   photographers.
-file: /courses/21a-348-photography-and-truth-spring-2008/5db847b9aa3d32f55b44baeaca3cd2f2_MIT21A_348S08_ambulantes.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/5db847b9aa3d32f55b44baeaca3cd2f2_MIT21A_348S08_ambulantes.pdf
 file_size: 129730
 file_type: application/pdf
 learning_resource_types: []
