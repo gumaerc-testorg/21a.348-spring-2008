@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on photo-essays and photo-ethnography.
-file: /courses/21a-348-photography-and-truth-spring-2008/d386f7569ffb82a2e1aeabbd08afedba_MIT21A_348S08_trobriand.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/d386f7569ffb82a2e1aeabbd08afedba_MIT21A_348S08_trobriand.pdf
 file_size: 2009881
 file_type: application/pdf
 learning_resource_types: []

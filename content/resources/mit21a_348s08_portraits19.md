@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on 19th century portraits and society.
-file: /courses/21a-348-photography-and-truth-spring-2008/fbe6b2add90b748e276697048e28b06b_MIT21A_348S08_portraits19.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/fbe6b2add90b748e276697048e28b06b_MIT21A_348S08_portraits19.pdf
 file_size: 3589702
 file_type: application/pdf
 learning_resource_types: []
