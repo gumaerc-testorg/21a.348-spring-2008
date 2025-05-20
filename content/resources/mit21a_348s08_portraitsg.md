@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on August Sander's portraits.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/cb64dcc110c795b46c5cb4cef3bfa4db_MIT21A_348S08_portraitsG.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/cb64dcc110c795b46c5cb4cef3bfa4db_MIT21A_348S08_portraitsG.pdf
 file_size: 846892
 file_type: application/pdf
 learning_resource_types: []

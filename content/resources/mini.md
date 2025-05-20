@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for an assignment to write three short essays on photography
   in life and literature.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/4755a726a73e2a82a2dd600ae8523683_mini.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/4755a726a73e2a82a2dd600ae8523683_mini.pdf
 file_size: 20621
 file_type: application/pdf
 learning_resource_types:

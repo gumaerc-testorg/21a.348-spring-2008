@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo and movie assignments for a class session on Jewish memorial books
   and everyday photography.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/e2b13a9b18cf16079714d9b058105f59_MIT21A_348S08_memorials.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/e2b13a9b18cf16079714d9b058105f59_MIT21A_348S08_memorials.pdf
 file_size: 665553
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo and movie assignments for a class session on photographing the
   Great Depression.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/eac402955723f325d4bc68e505faad88_MIT21A_348S08_jordan.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/eac402955723f325d4bc68e505faad88_MIT21A_348S08_jordan.pdf
 file_size: 54793
 file_type: application/pdf
 learning_resource_types: []

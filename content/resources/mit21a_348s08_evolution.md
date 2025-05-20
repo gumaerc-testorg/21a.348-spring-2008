@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the history of photographic technology.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/2d49db4d7707470cecd1f780cc817a83_MIT21A_348S08_evolution.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/2d49db4d7707470cecd1f780cc817a83_MIT21A_348S08_evolution.pdf
 file_size: 9776049
 file_type: application/pdf
 learning_resource_types: []
