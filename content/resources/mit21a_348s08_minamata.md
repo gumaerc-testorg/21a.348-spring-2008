@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo and movie assignments for a class session on muck-raking, advocacy,
   and propaganda.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/a66196e32234d541892a20123cd05ed5_MIT21A_348S08_minamata.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/a66196e32234d541892a20123cd05ed5_MIT21A_348S08_minamata.pdf
 file_size: 25603
 file_type: application/pdf
 learning_resource_types: []

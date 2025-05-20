@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on muck-raking, advocacy, and propaganda.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/3078efd076a690e6e1cbe184738204ec_MIT21A_348S08_muckraking.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/3078efd076a690e6e1cbe184738204ec_MIT21A_348S08_muckraking.pdf
 file_size: 1150023
 file_type: application/pdf
 learning_resource_types: []
