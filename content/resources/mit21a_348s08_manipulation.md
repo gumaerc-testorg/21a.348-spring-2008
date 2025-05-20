@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on photo manipulation.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/dd09606780d27d770c92f333f0afa633_MIT21A_348S08_manipulation.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/dd09606780d27d770c92f333f0afa633_MIT21A_348S08_manipulation.pdf
 file_size: 121302
 file_type: application/pdf
 learning_resource_types: []

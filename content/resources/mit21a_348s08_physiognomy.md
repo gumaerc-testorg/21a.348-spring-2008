@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on physiognomy.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/4397f48d5396f18fa1e839b63b985037_MIT21A_348S08_physiognomy.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/4397f48d5396f18fa1e839b63b985037_MIT21A_348S08_physiognomy.pdf
 file_size: 527326
 file_type: application/pdf
 learning_resource_types: []

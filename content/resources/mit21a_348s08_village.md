@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo and movie assignments for a class session on photo-essays and photo-ethnography.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/41ad6a4f0ffa29bacf14157ba4f8e15f_MIT21A_348S08_village.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/41ad6a4f0ffa29bacf14157ba4f8e15f_MIT21A_348S08_village.pdf
 file_size: 137459
 file_type: application/pdf
 learning_resource_types: []

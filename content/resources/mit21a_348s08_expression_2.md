@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on photography, social classification, and social
   control.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/dc5b98101f3be037a9dd66019c30d28a_MIT21A_348S08_expression_2.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/dc5b98101f3be037a9dd66019c30d28a_MIT21A_348S08_expression_2.pdf
 file_size: 2720363
 file_type: application/pdf
 learning_resource_types: []

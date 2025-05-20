@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on snaps, albums, postcards, itinerants, everyday
   photography, and people's lives.
-file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/c30da684116dcb218dc7eef62edf1dce_MIT21A_348S08_postcards.pdf
+file: /courses/21a-348-photography-and-truth-spring-2008/c30da684116dcb218dc7eef62edf1dce_MIT21A_348S08_postcards.pdf
 file_size: 1966263
 file_type: application/pdf
 learning_resource_types: []
