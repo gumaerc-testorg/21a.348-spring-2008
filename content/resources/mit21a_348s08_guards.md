@@ -2,7 +2,7 @@
 content_type: resource
 description: "Photo and movie assignments for a class session on photographs by Karl\
   \ H\xF6cker."
-file: /courses/21a-348-photography-and-truth-spring-2008/34cffd91ce9ff3c01e83ef910519c416_MIT21A_348S08_guards.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/34cffd91ce9ff3c01e83ef910519c416_MIT21A_348S08_guards.pdf
 file_size: 78722
 file_type: application/pdf
 learning_resource_types: []

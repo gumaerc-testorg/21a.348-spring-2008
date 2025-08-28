@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on photographing the Great Depression.
-file: /courses/21a-348-photography-and-truth-spring-2008/7edb2a6dbf81deac2646ac6774611be2_MIT21A_348S08_depression_2.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/7edb2a6dbf81deac2646ac6774611be2_MIT21A_348S08_depression_2.pdf
 file_size: 9917125
 file_type: application/pdf
 learning_resource_types: []
