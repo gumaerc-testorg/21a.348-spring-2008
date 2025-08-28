@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo and movie assignments for a class session on everyday photography.
-file: /courses/21a-348-photography-and-truth-spring-2008/469b155ffca4d4a0bc4bf9a4e8856af2_MIT21A_348S08_portraitsL.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/469b155ffca4d4a0bc4bf9a4e8856af2_MIT21A_348S08_portraitsL.pdf
 file_size: 104357
 file_type: application/pdf
 learning_resource_types: []
