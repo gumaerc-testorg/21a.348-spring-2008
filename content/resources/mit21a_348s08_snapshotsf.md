@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation on a selection of J. H. Lartigue\u2019s boyhood\
   \ photographs."
-file: /courses/21a-348-photography-and-truth-spring-2008/3d03eb5a0852aec696512264376fa918_MIT21A_348S08_snapshotsF.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/3d03eb5a0852aec696512264376fa918_MIT21A_348S08_snapshotsF.pdf
 file_size: 4576982
 file_type: application/pdf
 learning_resource_types: []

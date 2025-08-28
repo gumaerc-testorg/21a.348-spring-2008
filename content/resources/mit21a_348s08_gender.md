@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo and movie assignments for a class session on advertising photography
   and gender.
-file: /courses/21a-348-photography-and-truth-spring-2008/3520a0d6033a248cb1569ca73d275917_MIT21A_348S08_gender.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/3520a0d6033a248cb1569ca73d275917_MIT21A_348S08_gender.pdf
 file_size: 55674
 file_type: application/pdf
 learning_resource_types: []

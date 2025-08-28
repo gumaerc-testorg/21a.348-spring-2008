@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the power and ambiguity of photography.
-file: /courses/21a-348-photography-and-truth-spring-2008/bc13f9ca7f391edab265ad6c43105a0e_MIT21A_348S08_szarkowski.pdf
+file: /ol-ocw-studio-app/courses/21a-348-photography-and-truth-spring-2008/bc13f9ca7f391edab265ad6c43105a0e_MIT21A_348S08_szarkowski.pdf
 file_size: 9637411
 file_type: application/pdf
 learning_resource_types: []
