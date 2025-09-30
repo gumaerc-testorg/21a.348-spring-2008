@@ -223,7 +223,7 @@ Muck-raking, advocacy, and propaganda
 
 "Muckraking." ({{% resource_link 3078efd0-76a6-90e6-e1cb-e184738204ec "PDF - 1.1MB" %}})
 
-"Slaves and Prisons." Selections from "[Africa's Children: Struggles of Youth.](http://www.nytimes.com/packages/khtml/2006/10/28/world/20061029_GHANA_FEATURE.html)" _New York Times_, October 29, 2006.
+"Slaves and Prisons." Selections from "{{% resource_link "150ecaed-adf7-469a-8aec-2093c4da4a1c" "Africa's Children: Struggles of Youth." %}}" _New York Times_, October 29, 2006.
 
 Selections from _Death in the Making_. ({{% resource_link bcf32a4c-b8d4-8648-5fcd-19d63650ee1d "PDF" %}})
 
@@ -239,7 +239,7 @@ Selections from _Living with the Enemy_. ({{% resource_link f937bff5-8f3c-5d84-7
 
 "Sebastião Salgado." Selections from _An Uncertain Grace_. ({{% resource_link 84d9b63b-9992-c811-8a8f-39373c39b7a0 "PDF" %}})
 
-"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "[Picturing Auschwitz](http://www.newyorker.com/magazine/2008/03/17/picturing-auschwitz)." _New Yorker_, March 17, 2008. ({{% resource_link 34cffd91-ce9f-f3c0-1e83-ef910519c416 "PDF" %}})
+"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "{{% resource_link "9ece0565-4e0d-49d0-a45f-4fd6cf3ec06b" "Picturing Auschwitz" %}}." _New Yorker_, March 17, 2008. ({{% resource_link 34cffd91-ce9f-f3c0-1e83-ef910519c416 "PDF" %}})
 
 Movie: "The Other Half Revisited." Pacific Street Films, 1998.
 
@@ -277,9 +277,9 @@ Selections from _My Little Sister Cristina_. ({{% resource_link 5e6b2f76-734d-63
 
 Selections from "Pamplona Bullfight." ({{% resource_link bef8ac70-6033-1d99-219b-cb2962ca3191 "PDF" %}})
 
-Selections from "[A Country Doctor.](http://books.google.com/books?id=_kgEAAAAMBAJ&lpg=PA115&pg=PA115#v=onepage&q=&f=false)" ({{% resource_link 18224fae-7498-99a8-fb41-9a3583b0b4b6 "PDF" %}})
+Selections from "{{% resource_link "ba091966-0faf-46da-ac8e-8db7558b3041" "A Country Doctor." %}}" ({{% resource_link 18224fae-7498-99a8-fb41-9a3583b0b4b6 "PDF" %}})
 
-Selections from "[Spanish Village.](http://books.google.com/books?id=4E4EAAAAMBAJ&lpg=PA121&pg=PA121#v=onepage&q=&f=false)" ({{% resource_link 41ad6a4f-0ffa-29ba-cf14-157ba4f8e15f "PDF" %}})
+Selections from "{{% resource_link "16f3f6a6-6c93-42f0-9f0f-f89bb1f1fa2c" "Spanish Village." %}}" ({{% resource_link 41ad6a4f-0ffa-29ba-cf14-157ba4f8e15f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -309,7 +309,7 @@ Looking at pictures, thinking about photography
 War and suffering in the picture
 {{< tdclose >}}
 {{< tdopen >}}
-Movie: "[War Photographer.](http://www.imdb.com/title/tt0309061/)" Directed by Christian Frei. 2001.
+Movie: "{{% resource_link "b8e1873b-8d4f-4617-82bc-ef347bc8bb26" "War Photographer." %}}" Directed by Christian Frei. 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -389,7 +389,7 @@ MacLeish, Archibald. _Land of the Free_. New York, NY: Harcourt Brace, 1938.
 
 Maybury-Lewis, David, and James Howe. _The Indian Peoples of Paraguay: Their Plight and Their Prospects_. Cambridge, MA: Cultural Survival Special Report #2, 1980.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262160865) Parker, Ann, and Avon Neal. [_Los Ambulantes_](https://mitpress.mit.edu/9780262160865). Cambridge, MA: MIT Press, 1982. ISBN: 9780262160865.
+{{% resource_link "6cb57efb-ef34-4dcd-925c-cbc964bdb8c1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Parker, Ann, and Avon Neal. {{% resource_link "6cb57efb-ef34-4dcd-925c-cbc964bdb8c1" "_Los Ambulantes_" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 9780262160865.
 
 Penn, Irving. _Passage: A Work Record_. New York, NY: Knopf, 1991. ISBN: 9780679404910.
 

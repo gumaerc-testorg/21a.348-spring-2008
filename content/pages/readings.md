@@ -61,11 +61,11 @@ Kuhn, "Remembrance."
 
 Frizot, _New History_, chapter 41, "Rituals and Customs."
 
-Jacobbi, Marianne. "[Deleting Him](http://www.boston.com/bostonglobe/magazine/articles/2008/01/13/deleting_him/)." _The Boston Globe_, January 13, 2008, p. 38.
+Jacobbi, Marianne. "{{% resource_link "4e5a02cd-ed00-41c7-ab9b-32f6bac0c5c9" "Deleting Him" %}}." _The Boston Globe_, January 13, 2008, p. 38.
 
-Amir, "From Memorial Books to Invaluable Historical Documentation." ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, "From Memorial Books to Invaluable Historical Documentation." ({{% resource_link "b28692f1-c742-405c-ab16-3e086c749bcd" "PDF" %}})
 
-[Meir Holtzman Album](http://www.zchor.org/index5.htm)
+{{% resource_link "52c72e71-343a-4a25-8867-a832dbc6f150" "Meir Holtzman Album" %}}
 
 Sprague, "Yoruba Photography."
 
@@ -79,7 +79,7 @@ Simmonds, Posy. "Every Picture Tells a Story." p. 212 in Lenman, _Oxford Compan
 Truth and deception
 {{< tdclose >}}{{< tdopen >}}
 
-Gladwell, Malcolm. "[The Picture Problem](http://www.newyorker.com/archive/2004/12/13/041213fa_fact)." _The New Yorker_, December 13, 2004, pp. 74-81.
+Gladwell, Malcolm. "{{% resource_link "f0a6b692-b932-4bf3-9367-8227ac9a60d4" "The Picture Problem" %}}." _The New Yorker_, December 13, 2004, pp. 74-81.
 
 Chéroux, _The Perfect Medium_, pp. 20-23 and 29-34 (read); pp. 73-78 and 92-94 (skim).
 
@@ -87,11 +87,11 @@ Harvey, _Photography and Spirit_, pp. 56-69, 70-75, and 80-86.
 
 King, _The Commissar Vanishes_, pp. 9-13 and 32.
 
-[Moon Base Clavius](http://www.clavius.org/index.html) (Read section on photo analysis)
+{{% resource_link "f91b283b-cf63-4e19-90ed-2f88cfddf2e4" "Moon Base Clavius" %}} (Read section on photo analysis)
 
-"[The Truth of the Matter](http://digitaljournalist.org/issue0203/howe.htm)." (On two famous disputed war photographs)
+"{{% resource_link "2bb5b3d4-9697-42d7-adde-2852b4ffb3ea" "The Truth of the Matter" %}}." (On two famous disputed war photographs)
 
-Brower, Kenneth. "[Photography in the Age of Falsification](http://www.theatlantic.com/issues/98may/photo.htm)." _The Atlantic_ (May 1998): 92-111.
+Brower, Kenneth. "{{% resource_link "b72cef26-3272-4a5c-aa67-6da9a9f03e47" "Photography in the Age of Falsification" %}}." _The Atlantic_ (May 1998): 92-111.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -171,7 +171,7 @@ Sontag, "In Plato's Cave." In _On Photography_.
 
 Malcolm, "Certainties and Possibilities."
 
-Collins, Lauren. "[Pixel Perfect](http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_collins)." _The New Yorker_, May 12, 2008.
+Collins, Lauren. "{{% resource_link "18542118-27d6-4c88-b2ec-5cc8839e2913" "Pixel Perfect" %}}." _The New Yorker_, May 12, 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -183,7 +183,7 @@ Sontag, _Regarding the Pain of Others_, all.
 
 ## {{< anchor "Text_Sources" >}}{{< /anchor >}}Text Sources
 
-Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. ({{% resource_link "b28692f1-c742-405c-ab16-3e086c749bcd" "PDF" %}})
 
 Banks, Marcus. _Visual Methods in Social Research_. Thousand Oaks, CA: Sage, 2001. ISBN: 9780761963646.
 
@@ -221,7 +221,7 @@ Kemp, Martin. "'A Perfect and Faithful Record': Mind and Body in Medical Photogr
 
 King, David. _The Commissar Vanishes: The Falsification of Photographs and Art in Stalin's Russia_. New York, NY: Metropolitan Books, 1997. ISBN: 9780805052947.
 
-Kristof, Nicholas D. "[Save the Darfur Puppy](http://select.nytimes.com/2007/05/10/opinion/10kristof.html)." _New York Times_, May 10, 2007.
+Kristof, Nicholas D. "{{% resource_link "7dd2e5e7-bce8-4c3f-94cc-eb66771b4ca2" "Save the Darfur Puppy" %}}." _New York Times_, May 10, 2007.
 
 Kuhn, Annette. "Remembrance." In _Illuminations: Women Writing on Photography from the 1850s to the Present_. Edited by Liz Heron and Val Williams. Durham, NC: Duke University Press, 1996. ISBN: 9780822317845.
 
@@ -237,11 +237,11 @@ Marien, Mary Warner. _Photography: A Cultural History_. Upper Saddle River, NJ: 
 
 Mitchell, Timothy. "Orientalism and the Exhibitionary Order." In _Colonialism and Culture_. Edited by Nicholas Dirks. Ann Arbor, MI: University of Michigan Press, 1992. ISBN: 9780472094349.
 
-![Buy at MIT Press](/images/mp_logo.gif) Parker, Ann, and Avon Neal. [_Los Ambulantes: Itinerant Photographers of Guatemala_](https://mitpress.mit.edu/9780262660532). Cambridge, MA: MIT Press, 1984. ISBN: 9780262660532.
+![Buy at MIT Press](/images/mp_logo.gif) Parker, Ann, and Avon Neal. {{% resource_link "c73f9ebb-af73-4953-8371-657726d70e6d" "_Los Ambulantes: Itinerant Photographers of Guatemala_" %}}. Cambridge, MA: MIT Press, 1984. ISBN: 9780262660532.
 
 Pink, Sarah. _Doing Visual Ethnography_. Thousand Oaks, CA: Sage, 2001. ISBN: 9780761960546.
 
-Severson, Kim. "[Upton Sinclair, Now Playing on YouTube](http://www.nytimes.com/2008/03/12/dining/12animal.html)." _New York Times_, March 12, 2008.
+Severson, Kim. "{{% resource_link "344fb6ac-d79e-4cdb-916e-f3d44bdf06e4" "Upton Sinclair, Now Playing on YouTube" %}}." _New York Times_, March 12, 2008.
 
 Sontag, Susan. "In Plato's Cave." In _On Photography_. New York, NY: Picador, 2001. ISBN: 9780312420093.
 
@@ -251,7 +251,7 @@ Sontag, Susan. "In Plato's Cave." In _On Photography_. New York, NY: Picador, 20
 
 _Time Life Library of Photography - Photojournalism_. New York, NY: Time-Life Books, 1971.
 
-Timmons, Heather, and J. Adam Huggins. "[New York Manhole Covers, Forged Barefoot in India](http://www.nytimes.com/2007/11/26/nyregion/26manhole.html)." _New York Times_, November 26, 2007.
+Timmons, Heather, and J. Adam Huggins. "{{% resource_link "6f2b6acb-3bd0-4b83-ae29-dd62d5f43d15" "New York Manhole Covers, Forged Barefoot in India" %}}." _New York Times_, November 26, 2007.
 
 Trachtenberg, Alan. "Illustrious Americans." Chapter 1 in _Reading American Photographs_. New York, NY: Hill and Wang, 1990. ISBN: 9780374522490.
 
